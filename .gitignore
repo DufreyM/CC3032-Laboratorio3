@@ -1,2 +1,10 @@
 program/.env
 credentials.json
+
+# Generado por ANTLR al correr el compilador, no se versiona
+program/SiteLangLexer.py
+program/SiteLangParser.py
+program/SiteLangListener.py
+program/*.interp
+program/*.tokens
+program/__pycache__/

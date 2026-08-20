@@ -74,7 +74,7 @@ Al terminar imprime la URL pública del sitio desplegado en Vercel.
 5. Llama a la API de Vercel para desplegar el HTML directamente.
 
 Ver [ANALYSIS.md](ANALYSIS.md) para la comparación con el funcionamiento interno de
-Vercel CLI / Netlify CLI.
+Vercel CLI.
 
 ## Créditos
 

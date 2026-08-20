@@ -1,15 +1,14 @@
 # Define tu sitio aquí.
 # Al correr el compilador se genera el HTML, se crea el repo en GitHub y se despliega a Vercel.
-# TODO: reemplaza estos valores de ejemplo con los tuyos antes de correr el compilador.
 
-site "mi-sitio-cc3032" {
-  title       = "TU NOMBRE — UVG 2026"
-  description = "Estudiante de CS construyendo compiladores en la Universidad del Valle de Guatemala"
+site "leonardo-mejia-dev" {
+  title       = "Leonardo Mejía — Backend Developer"
+  description = "Backend developer que trabaja principalmente con Golang, estudiante de Ciencias de la Computación en la UVG"
   theme       = "dark"
 
   page "index" {
-    hero    = "Hola, construí este sitio con un compilador que yo escribí"
-    about   = "Soy estudiante de CS en la UVG. Esta página fue generada a partir de un DSL propio, subida a GitHub y desplegada en Vercel — todo por mi compilador hecho con ANTLR."
-    contact = "tu.correo@example.com"
+    hero    = "Hola, soy Leonardo Mejía"
+    about   = "Soy backend developer y trabajo principalmente con Golang. Estudio Ciencias de la Computación en la Universidad del Valle de Guatemala. Cuando no estoy programando, probablemente estoy jugando algo de Pokémon."
+    contact = "leomejia646@gmail.com"
   }
 }

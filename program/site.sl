@@ -1,7 +1,7 @@
 # Define tu sitio aquí.
 # Al correr el compilador se genera el HTML, se crea el repo en GitHub y se despliega a Vercel.
 
-site "leonardo-mejia-dev" {
+site "leonardo-mejia-cc3032" {
   title       = "Leonardo Mejía — Backend Developer"
   description = "Backend developer que trabaja principalmente con Golang, estudiante de Ciencias de la Computación en la UVG"
   theme       = "dark"
